@@ -1,0 +1,12 @@
+Dataset legend
+All the match statistics are in absolute number format, you can convert to percentages using the total point number
+
+ace = absolute number of aces
+df = number of double faults
+svpt = total serve points
+1stin = 1st serve in
+1st won = points won on 1st serve
+2ndwon = points won on 2nd serve
+SvGms = serve games
+bpSaved = break point saved
+bpFaced = break point faced
